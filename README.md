@@ -1,3 +1,6 @@
+![Dashboard](https://github.com/harmanpreet07/Amazon-Prime-Analysis/blob/main/prime%20dash.png)
+
+
 📊 Prime Video Data Analysis Dashboard
 
 
